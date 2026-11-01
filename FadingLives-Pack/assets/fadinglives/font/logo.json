@@ -1,0 +1,11 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "fadinglives:font/logo.png",
+      "ascent": 8,
+      "height": 24,
+      "chars": ["\uE000"]
+    }
+  ]
+}
