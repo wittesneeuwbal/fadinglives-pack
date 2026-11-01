@@ -1,6 +1,0 @@
-{
-  "quest_complete": { "sounds": [ { "name": "fadinglives:quest_complete" } ], "subtitle": "fadinglives.subtitle.quest_complete" },
-  "life_lost":      { "sounds": [ { "name": "fadinglives:life_lost" } ],      "subtitle": "fadinglives.subtitle.life_lost" },
-  "eliminated":     { "sounds": [ { "name": "fadinglives:eliminated" } ],     "subtitle": "fadinglives.subtitle.eliminated" },
-  "boogeyman":      { "sounds": [ { "name": "fadinglives:boogeyman" } ],      "subtitle": "fadinglives.subtitle.boogeyman" }
-}
